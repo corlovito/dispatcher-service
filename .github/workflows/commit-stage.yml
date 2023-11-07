@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: polarbookshop/dispatcher-service
+  IMAGE_NAME: corlovito/dispatcher-service
   VERSION: ${{ github.sha }}
 
 jobs:
