@@ -62,3 +62,4 @@ management:
   metrics:
     tags:
       application: ${spring.application.name}
+        # Add some text for check pipeline
